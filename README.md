@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android and Web development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on LASTFLOORS Web Application
-- 📫 How to reach me hale@lastfloors.com
+- 📫 How to reach me haleberins@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I Like Gaming
 
